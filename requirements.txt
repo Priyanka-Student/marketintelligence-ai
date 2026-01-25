@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+trafilatura
+newspaper3k
+langgraph
+ollama
+sqlite-utils
