@@ -1,0 +1,6 @@
+[MCP] search_web called
+[MCP] fetch_url called
+[MCP] clean_extract called
+[MCP] extract_entities called
+[MCP] impact_score called
+[MCP] generate_market_report called
