@@ -64,7 +64,7 @@ marketintelligence-ai/
 
 * **Python**
 * **FastAPI** – REST API & Swagger UI
-* **Ollama** – Local LLM runtime (Mistral / Qwen)
+* **Ollama** – Local LLM runtime ( Qwen2.5)
 * **Requests** – Inter-service communication
 * **Trafilatura** – Web content extraction
 * **Agent-based orchestration**
